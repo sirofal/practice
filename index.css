@@ -59,23 +59,18 @@ form {
 	/*width: 600px;*/
 }
 
-tr {
-	/*margin-top: 10px;*/
-	height: 40px;
-}
-
-form input[required] {
-	margin-left: 10px;
-}
-
 .submit {
 	margin-top: 20px;
-	text-align: right;
+	text-align: center;
 }
 /*form tr {
 height: 200px;
 background-color: red;
 }*/
+
+.input {
+	margin-bottom: 10px;
+}
 
 footer{
 	height: 60px;
