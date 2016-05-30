@@ -1,3 +1,4 @@
+
 body {
 	display: flex;
 	min-height: 100vh;
@@ -29,10 +30,6 @@ nav {
 	height: 60px;
 }
 
-.main-nav li {
-	/*line-height: 60px;*/
-
-}
 
 .main-nav li:first-child {
 	margin-right: auto;
@@ -41,8 +38,8 @@ nav {
 }
 
 .menu {
-		font-size: 24px;
-		/*justify-content: flex-end;*/
+	font-size: 24px;
+	/*justify-content: flex-end;*/
 }
 
 .main {
@@ -72,12 +69,12 @@ form input[required] {
 }
 
 .submit {
-	margin: 10px 10px 0 0;
+	margin-top: 20px;
 	text-align: right;
 }
 /*form tr {
-	height: 200px;
-	background-color: red;
+height: 200px;
+background-color: red;
 }*/
 
 footer{
